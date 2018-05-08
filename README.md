@@ -1,27 +1,21 @@
-# vue-hoc
+# vue-hoc-example
 
-> Higher order components in vue.js
+> Example of usage Higher order components in vue.js
 
 ## Build Setup
 
 ``` bash
 # install dependencies
-npm install
+yarn
 
 # serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
+yarn start
 
 # run unit tests
-npm run unit
+yarn test
+# or
+yarn test:watch
 
-# run all tests
-npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).

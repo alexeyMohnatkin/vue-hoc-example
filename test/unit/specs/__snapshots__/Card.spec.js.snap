@@ -1,0 +1,131 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card.vue All Together 1`] = `
+<div
+  class="root"
+>
+  <span
+    class="button aqa-edit-button"
+  >
+    Edit
+  </span>
+  <div
+    class="root"
+  >
+    <div
+      class="title"
+    >
+      
+    Some title
+  
+    </div>
+     
+    <div
+      class="text"
+    >
+      
+    card text
+  
+    </div>
+     
+    <!---->
+     
+    <div
+      class="footer"
+    >
+      <div>
+        <button
+          class="aqa-submit-button"
+          type="button"
+        >
+          Submit
+        </button>
+        <button
+          class="aqa-cancel-button"
+          type="button"
+        >
+          Cancel
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Card.vue Editable 1`] = `
+<div
+  class="root"
+>
+  <span
+    class="button aqa-edit-button"
+  >
+    Edit
+  </span>
+  <div
+    class="root"
+  >
+    <div
+      class="title"
+    >
+      
+    Some title
+  
+    </div>
+     
+    <div
+      class="text"
+    >
+      
+    card text
+  
+    </div>
+     
+    <!---->
+     
+    <!---->
+  </div>
+</div>
+`;
+
+exports[`Card.vue WithButtons 1`] = `
+<div
+  class="root"
+>
+  <div
+    class="title"
+  >
+    
+    Some title
+  
+  </div>
+   
+  <div
+    class="text"
+  >
+    
+    card text
+  
+  </div>
+   
+  <!---->
+   
+  <div
+    class="footer"
+  >
+    <div>
+      <button
+        class="aqa-submit-button"
+        type="button"
+      >
+        Submit
+      </button>
+      <button
+        class="aqa-cancel-button"
+        type="button"
+      >
+        Cancel
+      </button>
+    </div>
+  </div>
+</div>
+`;
